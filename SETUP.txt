@@ -1,0 +1,7 @@
+PYTHON LIBRARIES TO INSTALL:
+-NUMPY
+-PANDAS
+-SCIKIT AND SKLEARN
+-DIFFLIB
+
+once the above libraries are installed , run the program ->ENJOY!!
